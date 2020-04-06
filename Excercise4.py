@@ -16,5 +16,5 @@ def second(input1):
     except Exception as e:
         print(e.args[0])
 
-second("4")
 
+second("4")
